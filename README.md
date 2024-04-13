@@ -51,7 +51,7 @@ The app makes use of a spreadsheet to store user progress and updates the inform
 
 ## Executable
 
-An executable version of the game is available [here](https://github.com/Aycodez/Quiz-Trivia-Game/blob/main/QUIZGAME/QuizTriviaGame.rar). Download and uncompress the file. Then run the executable to play the game without needing Python or any dependencies installed.
+An executable version of the game is available [here](https://github.com/Aycodez/Quiz-Trivia-Game/blob/main/QUIZGAME/QuizTriviaGame.rar). Download the raw file then uncompress the file. You can now run the executable to play the game without needing Python or any dependencies installed.
 
 ## Contributing
 
