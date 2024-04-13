@@ -1,0 +1,11 @@
+,type,difficulty,category,question,correct_answer,incorrect_answers
+0,multiple,medium,Animals,What color/colour is a polar bear&#039;s skin?,Black,"['White', 'Pink', 'Green']"
+1,multiple,medium,Animals,What is the collective noun for bears?,Sloth,"['Drove', 'Tribe', 'Husk']"
+2,multiple,medium,Animals,What is the collective noun for rats?,Mischief,"['Pack', 'Race', 'Drift']"
+3,multiple,medium,Animals,What type of animal is a natterjack?,Toad,"['Bird', 'Fish', 'Insect']"
+4,multiple,medium,Animals,The now extinct species &quot;Thylacine&quot; was native to where?,"Tasmania, Australia","['Baluchistan, Pakistan', 'Wallachia, Romania', 'Oregon, United States']"
+5,multiple,medium,Animals,What is the scientific name for the &quot;Polar Bear&quot;?,Ursus Maritimus,"['Polar Bear', 'Ursus Spelaeus', 'Ursus Arctos']"
+6,multiple,medium,Animals,What is the name of the family that the domestic cat is a member of?,Felidae,"['Felinae', 'Felis', 'Cat']"
+7,multiple,medium,Animals,What are rhino&#039;s horn made of?,Keratin,"['Bone', 'Ivory', 'Skin']"
+8,multiple,medium,Animals,What is the fastest animal?,Peregrine Falcon,"['Golden Eagle', 'Cheetah', 'Horsefly']"
+9,multiple,medium,Animals,What is the world&#039;s longest venomous snake?,King Cobra,"['Green Anaconda', 'Inland Taipan', 'Yellow Bellied Sea Snake']"
