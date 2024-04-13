@@ -33,9 +33,10 @@ The app makes use of a spreadsheet to store user progress and updates the inform
 
 ## How to Play
 
-1. Choose a category from the main menu.
-2. Answer the questions by selecting the correct option.
-3. Your score will be displayed at the end of the quiz.
+1. Log in to app
+2. Choose a category from the main menu.
+3. Answer the questions by selecting the correct option.
+4. Your score will be displayed at the end of the quiz.
 
 ## Installation
 
@@ -50,7 +51,7 @@ The app makes use of a spreadsheet to store user progress and updates the inform
 
 ## Executable
 
-An executable version of the game is available [here](link_to_executable_file). Download and run the executable to play the game without needing Python or any dependencies installed.
+An executable version of the game is available [here](https://github.com/Aycodez/Quiz-Trivia-Game/blob/main/QUIZGAME/QuizTriviaGame.rar). Download and uncompress the file. Then run the executable to play the game without needing Python or any dependencies installed.
 
 ## Contributing
 
